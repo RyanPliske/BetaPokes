@@ -40,7 +40,7 @@
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
 		ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED2971642150620600B7C4FE /* JavaScriptCore.framework */; };
-		F98E26FC22500226000C3EE0 /* libAirMaps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F98E26E5224FFE3A000C3EE0 /* libAirMaps.a */; };
+		F98E273022503521000C3EE0 /* libAirMaps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F98E26E5224FFE3A000C3EE0 /* libAirMaps.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -372,7 +372,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F98E26FC22500226000C3EE0 /* libAirMaps.a in Frameworks */,
+				F98E273022503521000C3EE0 /* libAirMaps.a in Frameworks */,
 				ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */,
